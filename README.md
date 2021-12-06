@@ -21,6 +21,4 @@
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
+- Thanks for visiting!
