@@ -11,12 +11,12 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link= https://github.com/lorena-carvalho)](https://github.com/lorena-carvalho)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/lorena-carvalho)](https://github.com/lorena-carvalho)
 
 
 ## Languages and Tools:
 
-
+[![lorena-carvalho Github stats](https://github-readme-stats.vercel.app/api?username=lorena-carvalho)](https://github.com/lorena-carvalho/github-readme-stats)
 
 
 - Thanks for visiting.
