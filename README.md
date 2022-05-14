@@ -1,6 +1,6 @@
-## Hello World, I'm Lorena Carvalho!
+## Olá mundo, I'm Lorena Carvalho!
 
-:computer: I'm Back-End Developer!
+:computer: Back-End Developer!
  
 ## About me
 
