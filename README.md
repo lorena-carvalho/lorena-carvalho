@@ -13,5 +13,4 @@
 <code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorena-carvalho&repo=github-readme-stats)](https://github.com/lorena-carvalho/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-carvalho&layout=compact)](https://github.com/lorena-carvalho/github-readme-stats)
+	[![Github Stats](https://github-readme-stats.vercel.app/api?username={lorena-carvalho})
