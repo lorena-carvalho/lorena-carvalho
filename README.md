@@ -14,7 +14,7 @@
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/lorena-carvalho">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-carvalho&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorena-carvalho-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
