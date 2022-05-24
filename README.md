@@ -16,7 +16,9 @@
 ### Estou aprendendo
 <div>
 <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> 
 </div>
+ 
  
 <div>
 <a href="https://github.com/lorena-carvalho">
