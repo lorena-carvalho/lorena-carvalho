@@ -16,5 +16,5 @@
 <div>
 <a href="https://github.com/lorena-carvalho">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-carvalho&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorena-carvalho-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorena-carvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
