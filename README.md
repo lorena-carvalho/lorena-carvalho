@@ -3,9 +3,6 @@
 :computer: Back-End Developer </br>
 Estou aprendendo no momento Java and .NET
  
-### Sobre mim
-
-
 ### Linguagens e Ferramentas:
 <div>
 <img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
