@@ -1,9 +1,9 @@
-Hi , I am Lorena!
+# Oi :wave:
 
 :computer: Back-End Developer </br>
-I am learning at the moment Java and .NET
+Estou aprendendo no momento Java and .NET
  
-## Sobre mim
+### Sobre mim
 
 
 ### Linguagens e Ferramentas:
@@ -14,9 +14,8 @@ I am learning at the moment Java and .NET
 <img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
  
-
  
-# Github Stats 
+### Github Stats 
 <div>
 <a href="https://github.com/lorena-carvalho">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-carvalho&layout=compact&langs_count=7&theme=dracula"/>
@@ -24,7 +23,7 @@ I am learning at the moment Java and .NET
 </div>
  
 
-### Contatos:
+###Contatos:
 <div>
 <a href = "mailto:lorenacarvalho222@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lorena-carvalho-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
