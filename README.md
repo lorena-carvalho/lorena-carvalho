@@ -1,8 +1,14 @@
 # Oi :wave:, eu me chamo Lorena!
+<div>
+<a href = "mailto:lorenacarvalho222@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lorena-carvalho-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "https://github.com/lorena-carvalho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
+</div>
 
+### Sobre Mim
 :computer: Back-End Developer </br>
 Estou aprendendo no momento Java and .NET
- 
+
 ### Linguagens e Ferramentas:
 <div>
 <img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -19,10 +25,3 @@ Estou aprendendo no momento Java and .NET
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorena-carvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
-
-### Contatos
-<div>
-<a href = "mailto:lorenacarvalho222@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lorena-carvalho-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "https://github.com/lorena-carvalho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
-</div>
