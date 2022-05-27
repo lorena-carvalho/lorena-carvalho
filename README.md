@@ -1,4 +1,4 @@
-<h1> Hi , I am Lorena!</h1>
+Hi , I am Lorena!
 
 :computer: Back-End Developer </br>
 I am learning at the moment Java and .NET
