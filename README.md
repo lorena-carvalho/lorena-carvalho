@@ -5,9 +5,13 @@
 <a href = "https://github.com/lorena-carvalho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
 </div>
 
+ 
 ### Sobre Mim
+<div>
 :computer: Back-End Developer </br>
-Estou aprendendo no momento Java and .NET
+:books: Estou aprendendo no momento **Java** e **.NET**
+</div>
+
 
 ### Linguagens e Ferramentas:
 <div>
@@ -24,4 +28,3 @@ Estou aprendendo no momento Java and .NET
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-carvalho&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorena-carvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 
