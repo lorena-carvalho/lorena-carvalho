@@ -1,6 +1,7 @@
-## Olá mundo!
+# Hi , I am Lorena!
 
-:computer: Back-End Dev
+:computer: Back-End Developer
+I am learning at the moment Java and .NET
  
 ## Sobre mim
 
@@ -13,13 +14,9 @@
 <img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
  
-### Estou aprendendo
-<div>
-<img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> 
-</div>
+
  
- 
+# Github Stats 
 <div>
 <a href="https://github.com/lorena-carvalho">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-carvalho&layout=compact&langs_count=7&theme=dracula"/>
