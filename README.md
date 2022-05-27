@@ -9,7 +9,7 @@
 ### Sobre Mim
 <div>
 :computer: Back-End Developer </br>
-:books: Estou aprendendo no momento Java e .NET
+:books: Estou aprendendo no momento <b>Java</b> e .NET
 </div>
 
 
