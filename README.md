@@ -3,14 +3,6 @@
 <a href = "mailto:lorenacarvalho222@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lorena-carvalho-silva" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
-### Sobre Mim
-<div>
-:computer: Back-End Developer </br>
-:books: Estou aprendendo no momento <b>Java</b> e <b>.NET</b>
-</div>
-
-
 ### Linguagens e Ferramentas:
 <div>
 <img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
